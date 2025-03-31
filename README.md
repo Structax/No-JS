@@ -4,7 +4,15 @@
 
 **NO JS** is a brand new *syntax operating system* that lets you build full HTML web apps using a minimal, meaning-driven grammar — with **zero JavaScript**.
 
-Write your app like this:
+---
+
+## ⚡ TL;DR
+
+- Write `.nojs` files with meaning-first syntax
+- Compile to static HTML via CLI (`nojs build`)
+- No JavaScript. No JSX. No framework.
+- Powered by Zig. Runs fast. Outputs pure HTML.
+
 
 ```nojs
 page "home" {
@@ -137,8 +145,8 @@ It’s a new way of writing the web — one where **meaning is the only thing yo
 
 ## 🧵 Follow the Journey
 
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
-- Dev.to: [Your profile](https://dev.to/yourprofile)  
+- Twitter/X: [@Structax](https://x.com/structax)  
+- Dev.to: [Structax](https://dev.to/structax)  
 - Show HN: *Coming Soon...*
 
 ---
@@ -152,7 +160,7 @@ If you believe the web deserves to be simpler, declarative, and JS-free —
 
 ## 📄 License
 
-MIT © 2024 Your Name
+MIT © 2024 Stractax
 
 ---
 
