@@ -154,7 +154,7 @@ It’s a new way of writing the web — one where **meaning is the only thing yo
 ## ⭐ Give It a Star
 
 If you believe the web deserves to be simpler, declarative, and JS-free —  
-**[⭐ Star this repo](#)** to support the movement.
+⭐ Star this repo to support the movement.
 
 ---
 
