@@ -1,0 +1,7 @@
+page "home" {
+  state.username = "NO JS"
+
+  div {
+    h1 { text "Welcome, {username}" }
+  }
+}
