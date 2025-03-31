@@ -37,21 +37,21 @@ Just pure structure, compiled from meaning.
 > A Syntax OS to build the Web using pure meaning.  
 > No framework. No runtime. No JavaScript.
 
-- Define state, UI, and structure using a declarative `.nojs` syntax
-- Compile to pure static HTML (WASM later)
-- Powered by Zig — fast, minimal, and JS-free
+- Define state, UI, and structure using a declarative `.nojs` syntax  
+- Compile to pure static HTML (WASM later)  
+- Powered by Zig — fast, minimal, and JS-free  
 - Ideal for LLMs, beginners, educators, and indie builders
 
 ---
 
 ## 💡 Why Is This Revolutionary?
 
-| Before NO JS | With NO JS |
-|--------------|------------|
-| useState, JSX, VDOM | `state.username = "Yuki"` |
-| Framework boilerplate | Just describe what the app **means** |
-| JavaScript everywhere | **No JS at all** |
-| Complex tooling | One `.nojs` file + `nojs build` |
+| Before NO JS           | With NO JS                    |
+|------------------------|-------------------------------|
+| useState, JSX, VDOM    | `state.username = "Yuki"`     |
+| Framework boilerplate  | Just describe what it **means** |
+| JavaScript everywhere  | **No JS at all**              |
+| Complex tooling        | One `.nojs` file + `nojs build` |
 
 > NO JS replaces **imperative complexity** with **semantic clarity**.  
 > It's not how you build — it's what you mean.
@@ -60,11 +60,11 @@ Just pure structure, compiled from meaning.
 
 ## 🧪 MVP Status (v0.1)
 
-- ✅ `state` declarations
-- ✅ Element structure (`div`, `h1`, `p`)
-- ✅ Text nodes and `{}` placeholders
-- ✅ CLI build: `.nojs` → `.html`
-- ✅ Fully JS-free output
+- ✅ `state` declarations  
+- ✅ Element structure (`div`, `h1`, `p`)  
+- ✅ Text nodes and `{}` placeholders  
+- ✅ CLI build: `.nojs` → `.html`  
+- ✅ Fully JS-free output  
 
 ---
 
@@ -74,12 +74,13 @@ Download the latest release from GitHub:
 
 🔽 [Download nojs-v0.1.zip](https://github.com/jetscript-lang/No-JS/releases)
 
-1. Unzip the file
-2. Open your terminal (PowerShell or CMD)
+1. Unzip the file  
+2. Open your terminal (PowerShell or CMD)  
 3. Run:
 
 ```bash
 nojs.exe build examples/hello.nojs
+```
 
 ---
 
@@ -104,23 +105,23 @@ nojs/
 
 ## 🧠 Who is this for?
 
-| User Type | Why They Care |
-|-----------|----------------|
-| Indie Hackers | Single-file apps, no boilerplate |
-| Educators | Meaning-first syntax for beginners |
-| LLM Users | Easily parseable structure |
-| Web Idealists | JS-free web stack believers |
+| User Type      | Why They Care                           |
+|----------------|------------------------------------------|
+| Indie Hackers  | Single-file apps, no boilerplate        |
+| Educators      | Meaning-first syntax for beginners      |
+| LLM Users      | Easily parseable structure              |
+| Web Idealists  | JS-free web stack believers             |
 
 ---
 
 ## 🗺️ Roadmap
 
-- [ ] `@click`, `if`, `each` expressions
-- [ ] Components / slots
-- [ ] `fetch` / `stream` support
-- [ ] Playground: `nojs.dev`
-- [ ] Syntax-to-WASM runtime
-- [ ] Syntax App Store
+- [ ] `@click`, `if`, `each` expressions  
+- [ ] Components / slots  
+- [ ] `fetch` / `stream` support  
+- [ ] Playground: `nojs.dev`  
+- [ ] Syntax-to-WASM runtime  
+- [ ] Syntax App Store  
 
 ---
 
@@ -129,14 +130,15 @@ nojs/
 > Code tells machines what to do.  
 > **Syntax tells the world what you mean.**
 
-NO JS is not a framework. It’s a new way of writing the web — one where **meaning is the only thing you write**, and the machine takes care of the rest.
+NO JS is not a framework.  
+It’s a new way of writing the web — one where **meaning is the only thing you write**, and the machine takes care of the rest.
 
 ---
 
 ## 🧵 Follow the Journey
 
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- Dev.to: [Your profile](https://dev.to/yourprofile)
+- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
+- Dev.to: [Your profile](https://dev.to/yourprofile)  
 - Show HN: *Coming Soon...*
 
 ---
@@ -157,4 +159,5 @@ MIT © 2024 Your Name
 ## 🧩 Contributing
 
 Want to add new syntax or build the playground?  
-PRs and ideas are welcome. This is just the beginning of the NO JS syntax movement.
+PRs and ideas are welcome.  
+This is just the beginning of the NO JS syntax movement.
