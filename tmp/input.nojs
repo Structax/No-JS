@@ -1,0 +1,7 @@
+page "home" {
+  state.username = "Yuki"
+  div {
+    h1 { text "Welcome, {username}" }
+  }
+}
+  
